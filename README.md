@@ -8,7 +8,7 @@ Web Developer
 I am a Web Developer who loves JavaScript technologies!
 
 * 🌍  I am based in Texas, United States.
-* 🖥️  See my portfolio at [my portfolio](https://asielvallevalera.vercel.app/).
+* 🖥️  See my portfolio at [my portfolio](https://asielvalle96.vercel.app/).
 * ✉️  You can contact me at [my email](mailto:asielvallevalera@gmail.com).
 * ⚡  Fun fact: my favorite hobby is programming and watching action movies 😎.
 
@@ -23,7 +23,7 @@ I am a Web Developer who loves JavaScript technologies!
 ### Socials
 
 <p align="left">  
-  <a href="https://www.instagram.com/5eivivi" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/asielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
@@ -31,7 +31,7 @@ I am a Web Developer who loves JavaScript technologies!
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/5eivivi" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/asielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
@@ -39,7 +39,7 @@ I am a Web Developer who loves JavaScript technologies!
     </picture>
   </a>
 
-  <a href="https://www.github.com/5eivivi" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/asielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
@@ -47,7 +47,7 @@ I am a Web Developer who loves JavaScript technologies!
     </picture>
   </a>
 
-  <!-- <a href="https://www.facebook.com/5eivivi" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.facebook.com/asielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
@@ -55,7 +55,7 @@ I am a Web Developer who loves JavaScript technologies!
     </picture>
   </a> -->
   
-  <!-- <a href="https://www.twitter.com/5eivivi" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.twitter.com/asielvalle96" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
