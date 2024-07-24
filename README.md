@@ -7,7 +7,7 @@ Web Developer
 
 I am a Web Developer who loves JavaScript technologies!
 
-* 🌍  I am based in Texas, United States.
+* 🌍  I am based in United States.
 * 🖥️  See my portfolio at [my portfolio](https://asielvalle96.vercel.app/).
 * ✉️  You can contact me at [my email](mailto:avallevalera96@gmail.com).
 * ⚡  Fun fact: my favorite hobby is programming and watching action movies 😎.
